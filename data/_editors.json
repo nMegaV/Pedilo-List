@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nMegaV",
+        "link": "https://www.youtube.com/@Mega_V"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nMegaV",
+        "link": "https://www.youtube.com/@Mega_V"
     },
     {
         "role": "helper",
@@ -21,7 +21,7 @@
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "nMegaV",
+        "link": "https://www.youtube.com/@Mega_V"
     }
 ]
