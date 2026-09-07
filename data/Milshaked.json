@@ -11,7 +11,8 @@
         {
             "user": "noxm06",
             "link": "https://www.youtube.com/watch?v=P7imN1DnhOM",
-            "percent": 100
+            "percent": 100,
+            "hz":200
         }
     ]
 }
