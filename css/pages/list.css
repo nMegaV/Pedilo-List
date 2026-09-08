@@ -47,8 +47,8 @@
     inset: 0;
     z-index: -1;
     background-color: var(--color-background);
-    -webkit-mask-image: linear-gradient(to right, black 0%, black 65%, transparent 100%);
-    mask-image: linear-gradient(to right, black 0%, black 65%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, black 0%, black 35%, transparent 100%);
+    mask-image: linear-gradient(to right, black 0%, black 35%, transparent 100%);
 }
 .page-list .meta-container {
     padding-right: 2rem;
@@ -60,8 +60,8 @@
     inset: 0;
     z-index: -1;
     background-color: var(--color-background);
-    -webkit-mask-image: linear-gradient(to left, black 0%, black 65%, transparent 100%);
-    mask-image: linear-gradient(to left, black 0%, black 65%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to left, black 0%, black 35%, transparent 100%);
+    mask-image: linear-gradient(to left, black 0%, black 35%, transparent 100%);
 }
 
 .page-list .search {
